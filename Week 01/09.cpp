@@ -19,6 +19,7 @@ int main()
             {
                 b = b + x;
             }
+
             else
             {
                 c = c + x;
