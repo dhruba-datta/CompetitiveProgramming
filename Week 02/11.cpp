@@ -17,7 +17,6 @@ int main()
     {
         long long q;
         cin >> q;
-
         x += a[q];
         y += n - a[q] + 1;
     }
